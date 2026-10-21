@@ -52,7 +52,7 @@
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(52, 56);
+            textBox1.Location = new Point(151, 27);
             textBox1.Multiline = true;
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(346, 48);
@@ -61,7 +61,7 @@
             // button1
             // 
             button1.Font = new Font("Segoe UI Emoji", 16.2F);
-            button1.Location = new Point(52, 317);
+            button1.Location = new Point(151, 288);
             button1.Name = "button1";
             button1.Size = new Size(82, 60);
             button1.TabIndex = 1;
@@ -72,7 +72,7 @@
             // button2
             // 
             button2.Font = new Font("Segoe UI Emoji", 16.2F);
-            button2.Location = new Point(140, 317);
+            button2.Location = new Point(239, 288);
             button2.Name = "button2";
             button2.Size = new Size(82, 60);
             button2.TabIndex = 2;
@@ -82,7 +82,7 @@
             // button3
             // 
             button3.Font = new Font("Segoe UI Emoji", 16.2F);
-            button3.Location = new Point(228, 317);
+            button3.Location = new Point(327, 288);
             button3.Name = "button3";
             button3.Size = new Size(82, 60);
             button3.TabIndex = 3;
@@ -92,7 +92,7 @@
             // button4
             // 
             button4.Font = new Font("Segoe UI Emoji", 16.2F);
-            button4.Location = new Point(228, 251);
+            button4.Location = new Point(327, 222);
             button4.Name = "button4";
             button4.Size = new Size(82, 60);
             button4.TabIndex = 6;
@@ -102,7 +102,7 @@
             // button5
             // 
             button5.Font = new Font("Segoe UI Emoji", 16.2F);
-            button5.Location = new Point(140, 251);
+            button5.Location = new Point(239, 222);
             button5.Name = "button5";
             button5.Size = new Size(82, 60);
             button5.TabIndex = 5;
@@ -112,7 +112,7 @@
             // button6
             // 
             button6.Font = new Font("Segoe UI Emoji", 16.2F);
-            button6.Location = new Point(52, 251);
+            button6.Location = new Point(151, 222);
             button6.Name = "button6";
             button6.Size = new Size(82, 60);
             button6.TabIndex = 4;
@@ -122,7 +122,7 @@
             // button7
             // 
             button7.Font = new Font("Segoe UI Emoji", 16.2F);
-            button7.Location = new Point(228, 185);
+            button7.Location = new Point(327, 156);
             button7.Name = "button7";
             button7.Size = new Size(82, 60);
             button7.TabIndex = 9;
@@ -132,7 +132,7 @@
             // button8
             // 
             button8.Font = new Font("Segoe UI Emoji", 16.2F);
-            button8.Location = new Point(140, 185);
+            button8.Location = new Point(239, 156);
             button8.Name = "button8";
             button8.Size = new Size(82, 60);
             button8.TabIndex = 8;
@@ -142,7 +142,7 @@
             // button9
             // 
             button9.Font = new Font("Segoe UI Emoji", 16.2F);
-            button9.Location = new Point(52, 185);
+            button9.Location = new Point(151, 156);
             button9.Name = "button9";
             button9.Size = new Size(82, 60);
             button9.TabIndex = 7;
@@ -153,7 +153,7 @@
             // 
             button10.BackColor = Color.FromArgb(255, 128, 0);
             button10.Font = new Font("Segoe UI Emoji", 16.2F);
-            button10.Location = new Point(316, 251);
+            button10.Location = new Point(415, 222);
             button10.Name = "button10";
             button10.Size = new Size(82, 60);
             button10.TabIndex = 12;
@@ -163,7 +163,7 @@
             // button12
             // 
             button12.Font = new Font("Segoe UI Emoji", 16.2F);
-            button12.Location = new Point(228, 383);
+            button12.Location = new Point(327, 354);
             button12.Name = "button12";
             button12.Size = new Size(82, 69);
             button12.TabIndex = 10;
@@ -174,7 +174,7 @@
             // 
             button14.BackColor = Color.FromArgb(255, 128, 0);
             button14.Font = new Font("Segoe UI Emoji", 16.2F);
-            button14.Location = new Point(316, 317);
+            button14.Location = new Point(415, 288);
             button14.Name = "button14";
             button14.Size = new Size(82, 60);
             button14.TabIndex = 13;
@@ -185,7 +185,7 @@
             // 
             button16.BackColor = Color.FromArgb(255, 128, 0);
             button16.Font = new Font("Segoe UI Emoji", 16.2F);
-            button16.Location = new Point(316, 185);
+            button16.Location = new Point(415, 156);
             button16.Name = "button16";
             button16.Size = new Size(82, 60);
             button16.TabIndex = 15;
@@ -195,7 +195,7 @@
             // button18
             // 
             button18.Font = new Font("Segoe UI Emoji", 16.2F);
-            button18.Location = new Point(52, 119);
+            button18.Location = new Point(151, 90);
             button18.Name = "button18";
             button18.Size = new Size(82, 60);
             button18.TabIndex = 17;
@@ -205,7 +205,7 @@
             // button20
             // 
             button20.Font = new Font("Segoe UI Emoji", 16.2F);
-            button20.Location = new Point(52, 383);
+            button20.Location = new Point(151, 354);
             button20.Name = "button20";
             button20.Size = new Size(170, 69);
             button20.TabIndex = 19;
@@ -215,7 +215,7 @@
             // button11
             // 
             button11.Font = new Font("Segoe UI Emoji", 16.2F);
-            button11.Location = new Point(228, 119);
+            button11.Location = new Point(327, 90);
             button11.Name = "button11";
             button11.Size = new Size(82, 60);
             button11.TabIndex = 11;
@@ -225,7 +225,7 @@
             // button17
             // 
             button17.Font = new Font("Segoe UI Emoji", 16.2F);
-            button17.Location = new Point(140, 119);
+            button17.Location = new Point(239, 90);
             button17.Name = "button17";
             button17.Size = new Size(82, 60);
             button17.TabIndex = 18;
@@ -236,7 +236,7 @@
             // 
             button15.BackColor = Color.FromArgb(255, 128, 0);
             button15.Font = new Font("Segoe UI Emoji", 16.2F);
-            button15.Location = new Point(316, 119);
+            button15.Location = new Point(415, 90);
             button15.Name = "button15";
             button15.Size = new Size(82, 60);
             button15.TabIndex = 16;
@@ -247,7 +247,7 @@
             // 
             button13.BackColor = Color.FromArgb(255, 128, 0);
             button13.Font = new Font("Segoe UI Emoji", 16.2F);
-            button13.Location = new Point(316, 383);
+            button13.Location = new Point(415, 354);
             button13.Name = "button13";
             button13.Size = new Size(82, 69);
             button13.TabIndex = 14;
@@ -281,6 +281,7 @@
             Controls.Add(textBox1);
             Name = "Form1";
             Text = "Form1";
+            Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }
